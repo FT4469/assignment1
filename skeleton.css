@@ -6,16 +6,23 @@
   padding: 2%;
   margin: 10px;
   font: inherit;
+  float: left;
 }
 .column,
 .columns {
   width: 100%;
-  float: center;
-  box-sizing: border-box; }
+  float: left;
+  box-sizing: border-box; 
+}
 
 .u-max-full-width {
   max-width: 100%;
-  box-sizing: border-box; }
+  box-sizing: border-box; 
+}
+
+#right{
+  float: right;
+}
 
 .one.column,                    { width: 5,58%; }
 .two.columns                    { width: 14%; }
