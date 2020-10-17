@@ -1,7 +1,7 @@
 /* CSS files add styling rules to your content */
 body{
   font-family: Roboto;
-  background-color: #F9FCFF;
+  background-color: #F3F3F3;
   text-align: center;
 }
 
@@ -9,8 +9,7 @@ body{
   background-image: url('https://images.unsplash.com/photo-1569285645462-a3f9c6332d56?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80');
   background-position: center;
   background-size: cover;
-  border: solid 3px;
-  border-color: black;
+  margin: auto 10%;
 }
 
 h1, h2, h3, h4 {
@@ -36,4 +35,8 @@ h2{
 
 .article{
   font-family: Ubuntu, sans-serif;
+}
+
+img{
+  max-width:100%;
 }
