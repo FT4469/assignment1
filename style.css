@@ -19,20 +19,14 @@ h1, h2, h3, h4 {
   padding: 5%;
   margin: auto;
   color: #02305D;
+  text-align: center;
 }
 
 h2{
   font-size: 2em;
   font-style: italic;
   color: #2289EE;
-  padding: 10%;
-}
-
-.container{
-  text-align: justify;
-  padding: 2%;
-  margin: 10px;
-  font: inherit;
+  padding: 5%;
 }
 
 .source{
