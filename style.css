@@ -16,13 +16,16 @@ body{
 h1, h2, h3, h4 {
   font-family: Roboto, sans-serif;
   font-size: 3em;
-  padding: 5%;
+  padding: 5% 5% 0 5%;
   margin: auto;
   color: #02305D;
   text-align: center;
   text position: center;
 }
 
+h1{
+  padding: 5%;
+}
 h2{
   font-size: 2em;
   font-style: italic;
