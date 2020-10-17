@@ -3,6 +3,7 @@ body{
   font-family: Roboto;
   background-color: #F3F3F3;
   text-align: center;
+  color: #4B4B4B;
 }
 
 .first-division{
@@ -31,6 +32,9 @@ h2{
 .source{
   text-align: right;
   padding-top: 0;
+  font-family: Ubuntu;
+  font-size: 80%;
+  font-style: italic;
 }
 
 .article{
