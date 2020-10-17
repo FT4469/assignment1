@@ -29,6 +29,11 @@ h2{
   padding: 5%;
 }
 
+h3{
+  font-size: 1em;
+  text-align: center;
+}
+
 .source{
   text-align: right;
   padding-top: 0;
