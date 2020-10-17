@@ -17,9 +17,9 @@
   max-width: 100%;
   box-sizing: border-box; }
 
-.one.column,                    { width: 8,33%; }
-.two.columns                    { width: 16,67%; }
-.three.columns                  { width: 22%;            }  
+.one.column,                    { width: 5,58%; }
+.two.columns                    { width: 14%; }
+.three.columns                  { width: 22,75%; }  
 .four.columns                   { width: 30.6666666667%; }
 .five.columns                   { width: 39.3333333333%; }
 .six.columns                    { width: 48%;            }
