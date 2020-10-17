@@ -21,6 +21,20 @@ h1, h2, h3, h4 {
   color: #02305D;
 }
 
+h2{
+  font-size: 2em;
+  font-style: italic;
+  color: #2289EE;
+  padding: 10%;
+}
+
 .container{
   font-family: Ubuntu, sans-serif;
+  text-align: justify;
+  padding: 2%;
+  margin: 10px;
+}
+
+.source{
+  text-align: right;
 }
