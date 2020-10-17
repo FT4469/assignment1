@@ -9,6 +9,7 @@
   font: inherit;
   float: center;
   max-width: 960px;
+  flex: 1;
 }
 .column,
 .columns {
