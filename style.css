@@ -37,6 +37,10 @@ h2{
   font-style: italic;
 }
 
+a{
+  text-decoration: none;
+}
+
 .article{
   font-family: Ubuntu, sans-serif;
 }
