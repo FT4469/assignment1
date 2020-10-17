@@ -1,1 +1,10 @@
 /* CSS files add styling rules to your content */
+body{
+  font-family: Roboto;
+  background-color: #F9FCFF;
+  text-align: center;
+}
+
+.first-division{
+  
+}
