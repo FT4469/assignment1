@@ -27,7 +27,6 @@ h2{
   font-size: 2em;
   font-style: italic;
   color: #2289EE;
-  padding: 5%;
 }
 
 h3{
@@ -55,4 +54,5 @@ a{
 
 img{
   max-width:100%;
+  margin-top: 10%
 }
